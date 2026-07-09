@@ -10,8 +10,7 @@ The objective of this project is to transform raw Uber trip data into meaningful
 
 ## 📊 Dashboard Preview
 
-![image alt](https://github.com/shagun-datahub/uber-trip-analysis-powerbi/tree/d5b80947a476080461bc0946a9a39dc00d407435/Dashboard%20Screenshot)
-
+![image alt](https://github.com/shagun-datahub/uber-trip-analysis-powerbi/blob/c1cef76f306a0b7a28127f7e2dea6bbace843c57/Dashboard%20Screenshot/1.png)
 ---
 
 # 🚀 Project Objectives
