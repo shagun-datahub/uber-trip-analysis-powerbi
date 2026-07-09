@@ -125,13 +125,14 @@ Through this project, I strengthened my understanding of:
 
 ## Dashboard Overview
 
-![image alt]
+![image alt](https://github.com/shagun-datahub/uber-trip-analysis-powerbi/blob/c1cef76f306a0b7a28127f7e2dea6bbace843c57/Dashboard%20Screenshot/1.png)
+
 
 ---
 
 ## Booking Analysis
 
-![Booking](Images/Booking%20Analysis.png)
+![image alt](https://github.com/shagun-datahub/uber-trip-analysis-powerbi/blob/41c290705af90eb6a8821eac70f5af66aec14566/Dashboard%20Screenshot/4.png)
 
 ---
 
